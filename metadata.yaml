@@ -1,15 +1,16 @@
 _repo: Dalmatinische-Reise_46624
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46624/46624-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46624-h/images/cover.jpg
 creator:
   author:
     agent_name: Bahr, Hermann
     gutenberg_agent_id: '43880'
     url: http://www.gutenberg.org/2009/agents/43880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46624#Dalmatinische-Reise
 gutenberg_issued: '2014-08-19'
 gutenberg_type: Text
 identifiers:
